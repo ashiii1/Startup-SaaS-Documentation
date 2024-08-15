@@ -6,11 +6,11 @@
 export default {
   "title": "Home",
   "tagline": "A SaaS documentation for all startups.",
-  "url": "https://www.google.com",
+  "url": "https://www.gole.com",
   "baseUrl": "/",
   "onBrokenLinks": "log",
   "onBrokenMarkdownLinks": "warn",
-  "favicon": "img/favicon.ico",
+  "favicon": "img/favico.ico",
   "organizationName": "Startup",
   "projectName": "docs",
   "presets": [
@@ -63,19 +63,19 @@ export default {
           "className": "beta-badge-nav "
         },
         {
-          "href": "https://www.google.com",
+          "href": "https://www.gole.com",
           "label": "Startup Blog",
           "position": "left",
           "className": "nav-item-blog"
         },
         {
-          "href": "https://www.google.com",
+          "href": "https://www.gooe.com",
           "label": "Startup Site",
           "position": "left",
           "className": "nav-item-startupsite"
         },
         {
-          "href": "https://www.google.com",
+          "href": "https://www.ggle.com",
           "label": "GitHub",
           "position": "right",
           "classNAme": "github"
@@ -107,15 +107,15 @@ export default {
           "items": [
             {
               "label": "Discord",
-              "href": "https://www.google.com"
+              "href": "https://www.gooe.com"
             },
             {
               "label": "Twitter",
-              "href": "https://www.google.com"
+              "href": "https://www.gole.com"
             },
             {
               "label": "LinkedIn",
-              "href": "https://www.google.com"
+              "href": "https://www.ggle.com"
             }
           ]
         },
@@ -124,11 +124,11 @@ export default {
           "items": [
             {
               "label": "Blog",
-              "href": "https://www.google.com"
+              "href": "https://www.gole.com"
             },
             {
               "label": "GitHub",
-              "href": "https://www.google.com"
+              "href": "https://www.ggle.com"
             }
           ]
         }

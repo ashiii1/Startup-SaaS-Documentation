@@ -9,13 +9,13 @@ const TAGLINE =
   'A SaaS documentation for all startups.';
 const ORG_NAME = 'Startup';
 const REPO_NAME = 'docs';
-const MAIN_SITE_URL = 'https://www.google.com';
-const WEB_URL = 'https://www.google.com';
-const BLOG_URL = 'https://www.google.com';
-const GITHUB_URL = 'https://www.google.com';
-const DISCORD_URL = 'https://www.google.com';
-const TWITTER_URL = 'https://www.google.com';
-const LINKEDIN_URL = 'https://www.google.com';
+const MAIN_SITE_URL = 'https://www.gooe.com';
+const WEB_URL = 'https://www.gole.com';
+const BLOG_URL = 'https://www.gole.com';
+const GITHUB_URL = 'https://www.ggle.com';
+const DISCORD_URL = 'https://www.gooe.com';
+const TWITTER_URL = 'https://www.gole.com';
+const LINKEDIN_URL = 'https://www.ggle.com';
 const COPYRIGHT = `Copyright © ${new Date().getFullYear()} ${TITLE}. For Startups/SaaS.`;
 
 /** @type {import('@docusaurus/types').Config} */
@@ -27,7 +27,7 @@ const config = {
   baseUrl: '/',
   onBrokenLinks: 'log',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favico.ico',
 
   organizationName: ORG_NAME, // Usually your GitHub org/user name.
   projectName: REPO_NAME, // Usually your repo name.
