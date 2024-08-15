@@ -1,0 +1,26 @@
+{
+  "unversionedId": "How-To-Guides/how-to-style-play",
+  "id": "How-To-Guides/how-to-style-play",
+  "title": "How to Add Styling to Your Play",
+  "description": "Styling is an essential part of any play, and it's crucial to follow best practices to ensure that your code is maintainable and scalable. Here are some Dos and Don'ts to keep in mind when adding styling to your play:",
+  "source": "@site/docs/How-To-Guides/how-to-style-play.md",
+  "sourceDirName": "How-To-Guides",
+  "slug": "/How-To-Guides/how-to-style-play",
+  "permalink": "/How-To-Guides/how-to-style-play",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Step by step guide for developers",
+    "permalink": "/How-To-Guides/how-to-create-play"
+  },
+  "next": {
+    "title": "Developers guide to Contribute",
+    "permalink": "/How-To-Guides/how-to-become-a-maintainer"
+  }
+}

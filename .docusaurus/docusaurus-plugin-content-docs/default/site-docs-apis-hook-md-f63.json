@@ -1,0 +1,26 @@
+{
+  "unversionedId": "apis-hook",
+  "id": "apis-hook",
+  "title": "APIs for developers",
+  "description": "In Our startup, we work with APIs by using our custom-made react hooks. They are as follows:",
+  "source": "@site/docs/apis-hook.md",
+  "sourceDirName": ".",
+  "slug": "/apis-hook",
+  "permalink": "/apis-hook",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Features",
+    "permalink": "/database-schema"
+  },
+  "next": {
+    "title": "How To Guides",
+    "permalink": "/category/how-to-guides"
+  }
+}

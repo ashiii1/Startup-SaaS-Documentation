@@ -1,0 +1,26 @@
+{
+  "unversionedId": "How-To-Guides/how-to-create-play",
+  "id": "How-To-Guides/how-to-create-play",
+  "title": "Step by step guide for developers",
+  "description": "Welcome developers! We are as excited as you are to know that you are going to create a new play. It is super easy to get started.",
+  "source": "@site/docs/How-To-Guides/how-to-create-play.md",
+  "sourceDirName": "How-To-Guides",
+  "slug": "/How-To-Guides/how-to-create-play",
+  "permalink": "/How-To-Guides/how-to-create-play",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "How To Guides",
+    "permalink": "/category/how-to-guides"
+  },
+  "next": {
+    "title": "How to Add Styling to Your Play",
+    "permalink": "/How-To-Guides/how-to-style-play"
+  }
+}

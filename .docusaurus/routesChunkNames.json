@@ -1,0 +1,92 @@
+{
+  "/__docusaurus/debug-a3e": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-70-a-4c1"
+    }
+  },
+  "/__docusaurus/debug/config-4c8": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-70-a-4c1"
+    }
+  },
+  "/__docusaurus/debug/content-87d": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-70-a-4c1"
+    },
+    "allContent": "allContent---docusaurus-debug-content-246-9aa"
+  },
+  "/__docusaurus/debug/globalData-b1e": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-70-a-4c1"
+    }
+  },
+  "/__docusaurus/debug/metadata-30a": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-70-a-4c1"
+    }
+  },
+  "/__docusaurus/debug/registry-af3": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-70-a-4c1"
+    }
+  },
+  "/__docusaurus/debug/routes-aa1": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-70-a-4c1"
+    }
+  },
+  "/-72e": {
+    "__comp": "__comp---theme-doc-page-1-be-9be",
+    "__context": {
+      "plugin": "plugin---02-a-c3e"
+    },
+    "versionMetadata": "versionMetadata---935-fcf"
+  },
+  "/-96c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---0-e-3-279"
+  },
+  "/apis-hook-6f0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---apis-hookf-63-751"
+  },
+  "/category/how-to-guides-db3": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---category-how-to-guidesb-57-f16"
+  },
+  "/contribution-guide-ff9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---contribution-guideb-0-d-6e1"
+  },
+  "/database-schema-240": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---database-schemadbe-258"
+  },
+  "/How-To-Guides/how-to-become-a-maintainer-8e2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---how-to-guides-how-to-become-a-maintainer-425-e44"
+  },
+  "/How-To-Guides/how-to-create-play-d6e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---how-to-guides-how-to-create-play-339-6be"
+  },
+  "/How-To-Guides/how-to-style-play-408": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---how-to-guides-how-to-style-playad-4-b15"
+  },
+  "/local-development-b84": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---local-development-4-ed-e8f"
+  },
+  "/troubleshooting-guide-004": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---troubleshooting-guide-261-c8d"
+  }
+}

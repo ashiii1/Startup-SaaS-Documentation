@@ -1,0 +1,26 @@
+{
+  "unversionedId": "database-schema",
+  "id": "database-schema",
+  "title": "Features",
+  "description": "User Authentication and Authorization",
+  "source": "@site/docs/database-schema.md",
+  "sourceDirName": ".",
+  "slug": "/database-schema",
+  "permalink": "/database-schema",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Installation",
+    "permalink": "/local-development"
+  },
+  "next": {
+    "title": "APIs for developers",
+    "permalink": "/apis-hook"
+  }
+}

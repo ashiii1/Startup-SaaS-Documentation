@@ -1,0 +1,26 @@
+{
+  "unversionedId": "contribution-guide",
+  "id": "contribution-guide",
+  "title": "Overview",
+  "description": "Welcome to our comprehensive documentation template, tailored specifically for startups and SaaS applications. This template is designed to streamline the creation and management of your product's documentation, ensuring that users, developers, and stakeholders have clear, accessible information at their fingertips.",
+  "source": "@site/docs/contribution-guide.md",
+  "sourceDirName": ".",
+  "slug": "/contribution-guide",
+  "permalink": "/contribution-guide",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "This startup is for?",
+    "permalink": "/"
+  },
+  "next": {
+    "title": "Installation",
+    "permalink": "/local-development"
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "This startup is for?",
+        "href": "/",
+        "docId": "intro"
+      },
+      {
+        "type": "link",
+        "label": "Overview",
+        "href": "/contribution-guide",
+        "docId": "contribution-guide"
+      },
+      {
+        "type": "link",
+        "label": "Installation",
+        "href": "/local-development",
+        "docId": "local-development"
+      },
+      {
+        "type": "link",
+        "label": "Features",
+        "href": "/database-schema",
+        "docId": "database-schema"
+      },
+      {
+        "type": "link",
+        "label": "APIs for developers",
+        "href": "/apis-hook",
+        "docId": "apis-hook"
+      },
+      {
+        "type": "category",
+        "label": "How To Guides",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Step by step guide for developers",
+            "href": "/How-To-Guides/how-to-create-play",
+            "docId": "How-To-Guides/how-to-create-play"
+          },
+          {
+            "type": "link",
+            "label": "How to Add Styling to Your Play",
+            "href": "/How-To-Guides/how-to-style-play",
+            "docId": "How-To-Guides/how-to-style-play"
+          },
+          {
+            "type": "link",
+            "label": "Developers guide to Contribute",
+            "href": "/How-To-Guides/how-to-become-a-maintainer",
+            "docId": "How-To-Guides/how-to-become-a-maintainer"
+          }
+        ],
+        "href": "/category/how-to-guides"
+      },
+      {
+        "type": "link",
+        "label": "Troubleshooting Guide",
+        "href": "/troubleshooting-guide",
+        "docId": "troubleshooting-guide"
+      }
+    ]
+  },
+  "docs": {
+    "apis-hook": {
+      "id": "apis-hook",
+      "title": "APIs for developers",
+      "description": "In Our startup, we work with APIs by using our custom-made react hooks. They are as follows:",
+      "sidebar": "tutorialSidebar"
+    },
+    "contribution-guide": {
+      "id": "contribution-guide",
+      "title": "Overview",
+      "description": "Welcome to our comprehensive documentation template, tailored specifically for startups and SaaS applications. This template is designed to streamline the creation and management of your product's documentation, ensuring that users, developers, and stakeholders have clear, accessible information at their fingertips.",
+      "sidebar": "tutorialSidebar"
+    },
+    "database-schema": {
+      "id": "database-schema",
+      "title": "Features",
+      "description": "User Authentication and Authorization",
+      "sidebar": "tutorialSidebar"
+    },
+    "How-To-Guides/how-to-become-a-maintainer": {
+      "id": "How-To-Guides/how-to-become-a-maintainer",
+      "title": "Developers guide to Contribute",
+      "description": "ReactPlay is an open-source community that welcomes volunteers to become maintainers. If you are interested in becoming a maintainer, here are the criteria and requirements you need to meet.",
+      "sidebar": "tutorialSidebar"
+    },
+    "How-To-Guides/how-to-create-play": {
+      "id": "How-To-Guides/how-to-create-play",
+      "title": "Step by step guide for developers",
+      "description": "Welcome developers! We are as excited as you are to know that you are going to create a new play. It is super easy to get started.",
+      "sidebar": "tutorialSidebar"
+    },
+    "How-To-Guides/how-to-style-play": {
+      "id": "How-To-Guides/how-to-style-play",
+      "title": "How to Add Styling to Your Play",
+      "description": "Styling is an essential part of any play, and it's crucial to follow best practices to ensure that your code is maintainable and scalable. Here are some Dos and Don'ts to keep in mind when adding styling to your play:",
+      "sidebar": "tutorialSidebar"
+    },
+    "intro": {
+      "id": "intro",
+      "title": "This startup is for?",
+      "description": "banner",
+      "sidebar": "tutorialSidebar"
+    },
+    "local-development": {
+      "id": "local-development",
+      "title": "Installation",
+      "description": "Welcome to our installation guide! Follow these steps to set up our software and get started quickly. This guide will walk you through the installation process, ensuring you have everything you need to start using our product effectively.",
+      "sidebar": "tutorialSidebar"
+    },
+    "troubleshooting-guide": {
+      "id": "troubleshooting-guide",
+      "title": "Troubleshooting Guide",
+      "description": "Facing a problem? Check out our Troubleshooting Guide.",
+      "sidebar": "tutorialSidebar"
+    }
+  }
+}

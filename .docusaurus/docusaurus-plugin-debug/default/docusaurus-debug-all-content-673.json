@@ -1,0 +1,314 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/",
+          "tagsPath": "/tags",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "D:\\d\\my-nextjs-app\\sidebars.js",
+          "contentPath": "D:\\d\\my-nextjs-app\\docs",
+          "contentPathLocalized": "D:\\d\\my-nextjs-app\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "docs": [
+            {
+              "unversionedId": "apis-hook",
+              "id": "apis-hook",
+              "title": "APIs for developers",
+              "description": "In Our startup, we work with APIs by using our custom-made react hooks. They are as follows:",
+              "source": "@site/docs/apis-hook.md",
+              "sourceDirName": ".",
+              "slug": "/apis-hook",
+              "permalink": "/apis-hook",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Features",
+                "permalink": "/database-schema"
+              },
+              "next": {
+                "title": "How To Guides",
+                "permalink": "/category/how-to-guides"
+              }
+            },
+            {
+              "unversionedId": "contribution-guide",
+              "id": "contribution-guide",
+              "title": "Overview",
+              "description": "Welcome to our comprehensive documentation template, tailored specifically for startups and SaaS applications. This template is designed to streamline the creation and management of your product's documentation, ensuring that users, developers, and stakeholders have clear, accessible information at their fingertips.",
+              "source": "@site/docs/contribution-guide.md",
+              "sourceDirName": ".",
+              "slug": "/contribution-guide",
+              "permalink": "/contribution-guide",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "This startup is for?",
+                "permalink": "/"
+              },
+              "next": {
+                "title": "Installation",
+                "permalink": "/local-development"
+              }
+            },
+            {
+              "unversionedId": "database-schema",
+              "id": "database-schema",
+              "title": "Features",
+              "description": "User Authentication and Authorization",
+              "source": "@site/docs/database-schema.md",
+              "sourceDirName": ".",
+              "slug": "/database-schema",
+              "permalink": "/database-schema",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Installation",
+                "permalink": "/local-development"
+              },
+              "next": {
+                "title": "APIs for developers",
+                "permalink": "/apis-hook"
+              }
+            },
+            {
+              "unversionedId": "How-To-Guides/how-to-become-a-maintainer",
+              "id": "How-To-Guides/how-to-become-a-maintainer",
+              "title": "Developers guide to Contribute",
+              "description": "ReactPlay is an open-source community that welcomes volunteers to become maintainers. If you are interested in becoming a maintainer, here are the criteria and requirements you need to meet.",
+              "source": "@site/docs/How-To-Guides/how-to-become-a-maintainer.md",
+              "sourceDirName": "How-To-Guides",
+              "slug": "/How-To-Guides/how-to-become-a-maintainer",
+              "permalink": "/How-To-Guides/how-to-become-a-maintainer",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "How to Add Styling to Your Play",
+                "permalink": "/How-To-Guides/how-to-style-play"
+              },
+              "next": {
+                "title": "Troubleshooting Guide",
+                "permalink": "/troubleshooting-guide"
+              }
+            },
+            {
+              "unversionedId": "How-To-Guides/how-to-create-play",
+              "id": "How-To-Guides/how-to-create-play",
+              "title": "Step by step guide for developers",
+              "description": "Welcome developers! We are as excited as you are to know that you are going to create a new play. It is super easy to get started.",
+              "source": "@site/docs/How-To-Guides/how-to-create-play.md",
+              "sourceDirName": "How-To-Guides",
+              "slug": "/How-To-Guides/how-to-create-play",
+              "permalink": "/How-To-Guides/how-to-create-play",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "How To Guides",
+                "permalink": "/category/how-to-guides"
+              },
+              "next": {
+                "title": "How to Add Styling to Your Play",
+                "permalink": "/How-To-Guides/how-to-style-play"
+              }
+            },
+            {
+              "unversionedId": "How-To-Guides/how-to-style-play",
+              "id": "How-To-Guides/how-to-style-play",
+              "title": "How to Add Styling to Your Play",
+              "description": "Styling is an essential part of any play, and it's crucial to follow best practices to ensure that your code is maintainable and scalable. Here are some Dos and Don'ts to keep in mind when adding styling to your play:",
+              "source": "@site/docs/How-To-Guides/how-to-style-play.md",
+              "sourceDirName": "How-To-Guides",
+              "slug": "/How-To-Guides/how-to-style-play",
+              "permalink": "/How-To-Guides/how-to-style-play",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Step by step guide for developers",
+                "permalink": "/How-To-Guides/how-to-create-play"
+              },
+              "next": {
+                "title": "Developers guide to Contribute",
+                "permalink": "/How-To-Guides/how-to-become-a-maintainer"
+              }
+            },
+            {
+              "unversionedId": "intro",
+              "id": "intro",
+              "title": "This startup is for?",
+              "description": "banner",
+              "source": "@site/docs/intro.md",
+              "sourceDirName": ".",
+              "slug": "/",
+              "permalink": "/",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "slug": "/",
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "Overview",
+                "permalink": "/contribution-guide"
+              }
+            },
+            {
+              "unversionedId": "local-development",
+              "id": "local-development",
+              "title": "Installation",
+              "description": "Welcome to our installation guide! Follow these steps to set up our software and get started quickly. This guide will walk you through the installation process, ensuring you have everything you need to start using our product effectively.",
+              "source": "@site/docs/local-development.md",
+              "sourceDirName": ".",
+              "slug": "/local-development",
+              "permalink": "/local-development",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Overview",
+                "permalink": "/contribution-guide"
+              },
+              "next": {
+                "title": "Features",
+                "permalink": "/database-schema"
+              }
+            },
+            {
+              "unversionedId": "troubleshooting-guide",
+              "id": "troubleshooting-guide",
+              "title": "Troubleshooting Guide",
+              "description": "Facing a problem? Check out our Troubleshooting Guide.",
+              "source": "@site/docs/troubleshooting-guide.md",
+              "sourceDirName": ".",
+              "slug": "/troubleshooting-guide",
+              "permalink": "/troubleshooting-guide",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 7,
+              "frontMatter": {
+                "sidebar_position": 7
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Developers guide to Contribute",
+                "permalink": "/How-To-Guides/how-to-become-a-maintainer"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "intro"
+              },
+              {
+                "type": "doc",
+                "id": "contribution-guide"
+              },
+              {
+                "type": "doc",
+                "id": "local-development"
+              },
+              {
+                "type": "doc",
+                "id": "database-schema"
+              },
+              {
+                "type": "doc",
+                "id": "apis-hook"
+              },
+              {
+                "type": "category",
+                "label": "How To Guides",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "How-To-Guides/how-to-create-play"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "How-To-Guides/how-to-style-play"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "How-To-Guides/how-to-become-a-maintainer"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "These guides will teach you how to do things in ReactPlay.",
+                  "slug": "/category/how-to-guides",
+                  "permalink": "/category/how-to-guides"
+                }
+              },
+              {
+                "type": "doc",
+                "id": "troubleshooting-guide"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": []
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

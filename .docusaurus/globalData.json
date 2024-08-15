@@ -1,0 +1,78 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "apis-hook",
+              "path": "/apis-hook",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contribution-guide",
+              "path": "/contribution-guide",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "database-schema",
+              "path": "/database-schema",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "How-To-Guides/how-to-become-a-maintainer",
+              "path": "/How-To-Guides/how-to-become-a-maintainer",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "How-To-Guides/how-to-create-play",
+              "path": "/How-To-Guides/how-to-create-play",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "How-To-Guides/how-to-style-play",
+              "path": "/How-To-Guides/how-to-style-play",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "local-development",
+              "path": "/local-development",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "troubleshooting-guide",
+              "path": "/troubleshooting-guide",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/how-to-guides",
+              "path": "/category/how-to-guides",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

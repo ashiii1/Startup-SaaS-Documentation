@@ -1,0 +1,26 @@
+{
+  "unversionedId": "How-To-Guides/how-to-become-a-maintainer",
+  "id": "How-To-Guides/how-to-become-a-maintainer",
+  "title": "Developers guide to Contribute",
+  "description": "ReactPlay is an open-source community that welcomes volunteers to become maintainers. If you are interested in becoming a maintainer, here are the criteria and requirements you need to meet.",
+  "source": "@site/docs/How-To-Guides/how-to-become-a-maintainer.md",
+  "sourceDirName": "How-To-Guides",
+  "slug": "/How-To-Guides/how-to-become-a-maintainer",
+  "permalink": "/How-To-Guides/how-to-become-a-maintainer",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "How to Add Styling to Your Play",
+    "permalink": "/How-To-Guides/how-to-style-play"
+  },
+  "next": {
+    "title": "Troubleshooting Guide",
+    "permalink": "/troubleshooting-guide"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "unversionedId": "troubleshooting-guide",
+  "id": "troubleshooting-guide",
+  "title": "Troubleshooting Guide",
+  "description": "Facing a problem? Check out our Troubleshooting Guide.",
+  "source": "@site/docs/troubleshooting-guide.md",
+  "sourceDirName": ".",
+  "slug": "/troubleshooting-guide",
+  "permalink": "/troubleshooting-guide",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Developers guide to Contribute",
+    "permalink": "/How-To-Guides/how-to-become-a-maintainer"
+  }
+}

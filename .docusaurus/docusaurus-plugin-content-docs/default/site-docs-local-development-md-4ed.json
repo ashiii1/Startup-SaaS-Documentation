@@ -1,0 +1,26 @@
+{
+  "unversionedId": "local-development",
+  "id": "local-development",
+  "title": "Installation",
+  "description": "Welcome to our installation guide! Follow these steps to set up our software and get started quickly. This guide will walk you through the installation process, ensuring you have everything you need to start using our product effectively.",
+  "source": "@site/docs/local-development.md",
+  "sourceDirName": ".",
+  "slug": "/local-development",
+  "permalink": "/local-development",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/contribution-guide"
+  },
+  "next": {
+    "title": "Features",
+    "permalink": "/database-schema"
+  }
+}
