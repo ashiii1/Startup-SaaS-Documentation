@@ -39,7 +39,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', '72e'),
+    component: ComponentCreator('/', '3c4'),
     routes: [
       {
         path: '/',
@@ -55,7 +55,7 @@ export default [
       },
       {
         path: '/category/how-to-guides',
-        component: ComponentCreator('/category/how-to-guides', 'db3'),
+        component: ComponentCreator('/category/how-to-guides', '4a1'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

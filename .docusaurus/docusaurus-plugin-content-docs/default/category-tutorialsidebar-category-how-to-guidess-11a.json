@@ -1,0 +1,16 @@
+{
+  "title": "How To Guidess",
+  "description": "These guides will teach you how to do things in ReactPlay.",
+  "slug": "/category/how-to-guidess",
+  "permalink": "/category/how-to-guidess",
+  "navigation": {
+    "previous": {
+      "title": "APIs for developers",
+      "permalink": "/apis-hook"
+    },
+    "next": {
+      "title": "Step by step guide for developers",
+      "permalink": "/How-To-Guides/how-to-create-play"
+    }
+  }
+}
